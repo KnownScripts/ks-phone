@@ -3,7 +3,7 @@
 * Fixed status for garages
 
 
-This isnt mainly my script but i added it into my repository to get available vehicles from garages
+This isnt mainly my resource but i added it into my repository to get available vehicles from ks-garages
 
 
 # Original script
